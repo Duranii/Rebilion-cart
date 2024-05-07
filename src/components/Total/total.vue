@@ -2,7 +2,7 @@
 <div class="Main">    
     <div class="nike">
         <div class="snikker">
-            <img src="../../assets/Group 1000004336.png">
+            <img src="../../assets/Group 1000004336.png" />
             <p>Nike sneakers</p>
         </div>
         <p>$120.90</p>
@@ -10,7 +10,7 @@
 
     <div class="nike">
         <div class="snikker">
-            <img src="../../assets/green.png">
+            <img src="../../assets/green.png" />
             <p>Nike sneakers</p>
         </div>
         <p>$120.90</p>
@@ -18,7 +18,7 @@
 
     <div class="nike">
         <div class="snikker">
-            <img src="../../assets/pink.png">
+            <img src="../../assets/pink.png" />
             <p>Nike sneakers</p>
         </div>
         <p>$120.90</p>
