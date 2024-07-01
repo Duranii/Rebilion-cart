@@ -6,6 +6,7 @@ import PinkPic from "../../assets/pink.png";
 export default {
         data: function () {
             return {
+                name: 'total',
                 GroupPic: GroupPic,
                 GreenPic: GreenPic,
                 PinkPic: PinkPic
@@ -57,12 +58,6 @@ export default {
         <p>$362.70</p>
     </div>
 </template>
-
-<script>
-    export default{
-        name: 'total',
-    }
-</script>
 
 <style>
     .line{
