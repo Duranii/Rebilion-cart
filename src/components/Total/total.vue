@@ -1,8 +1,24 @@
+<script>
+import GroupPic from "../../assets/Group 1000004336.png";
+import GreenPic from "../../assets/green.png";
+import PinkPic from "../../assets/pink.png";
+
+export default {
+        data: function () {
+            return {
+                GroupPic: GroupPic,
+                GreenPic: GreenPic,
+                PinkPic: PinkPic
+            }
+        }
+    }
+</script>
+
 <template>
 <div class="Main">    
     <div class="nike">
         <div class="snikker">
-            <img src="../../assets/Group 1000004336.png" />
+            <img src="GroupPic" />
             <p>Nike sneakers</p>
         </div>
         <p>$120.90</p>
@@ -10,7 +26,7 @@
 
     <div class="nike">
         <div class="snikker">
-            <img src="../../assets/green.png" />
+            <img src="Green" />
             <p>Nike sneakers</p>
         </div>
         <p>$120.90</p>
@@ -18,7 +34,7 @@
 
     <div class="nike">
         <div class="snikker">
-            <img src="../../assets/pink.png" />
+            <img src="PinkPic" />
             <p>Nike sneakers</p>
         </div>
         <p>$120.90</p>
