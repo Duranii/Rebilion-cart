@@ -19,7 +19,7 @@ export default {
 <div class="Main">    
     <div class="nike">
         <div class="snikker">
-            <img src="GroupPic" />
+            <img :src="GroupPic" />
             <p>Nike sneakers</p>
         </div>
         <p>$120.90</p>
@@ -27,7 +27,7 @@ export default {
 
     <div class="nike">
         <div class="snikker">
-            <img src="Green" />
+            <img :src="Green" />
             <p>Nike sneakers</p>
         </div>
         <p>$120.90</p>
@@ -35,7 +35,7 @@ export default {
 
     <div class="nike">
         <div class="snikker">
-            <img src="PinkPic" />
+            <img :src="PinkPic" />
             <p>Nike sneakers</p>
         </div>
         <p>$120.90</p>
